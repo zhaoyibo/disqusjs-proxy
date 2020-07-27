@@ -5,14 +5,9 @@
         {
             "src": "/(.*)",
             "headers": {
-                "cache-control": "public, max-age=3600",
-                "access-control-allow-credentials": true,
-                "access-control-allow-origin": "https://www.haoyizebo.com",
-                "access-control-allow-methods": "*",
-                "access-control-allow-headers": "*"
+                "cache-control": "public, max-age=3600"
             },
-            "dest": "https://disqus.com/api/$1",
-            "continue": true
+            "dest": "https://disqus.com/api/$1"
         }
     ],
     "github": {
