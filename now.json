@@ -10,7 +10,6 @@
             "dest": "https://disqus.com/api/$1"
         }
     ],
-    
     "github": {
         "enabled": true,
         "autoJobCancelation": true
