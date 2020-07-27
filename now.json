@@ -7,7 +7,7 @@
             "headers": {
                 "cache-control": "public, max-age=3600",
                 "access-control-allow-credentials": true,
-                "access-control-allow-origin": "*",
+                "access-control-allow-origin": "https://www.haoyizebo.com",
                 "access-control-allow-methods": "*",
                 "access-control-allow-headers": "*"
             },
